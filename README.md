@@ -1,4 +1,4 @@
-# 🏠💸 Linear Regression Models Can Be Used to Analyze Local Rental Prices 🏠💸
+## 🏠💸 Linear Regression Models Can Be Used to Analyze Local Rental Prices 🏠💸
 
 Our aim is to help a client understand key factors affecting rental prices in the San Francisco area. The goal is to be able to use our model to predict the appropriate price range for new apartments in the city 🏙️
 
